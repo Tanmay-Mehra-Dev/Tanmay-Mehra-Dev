@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-`Parul University` · `Vadodara, India` · `Class of 2029`
+`Parul University` · `Vadodara, India` · `Class of 2030`
 
 <br/>
 
@@ -82,7 +82,7 @@ No shortcuts, no achievements claimed that aren't real yet. This README is a liv
 |---|---|
 | **Degree** | B.Tech, Computer Science & Engineering (Core) |
 | **Institute** | Parul University |
-| **Timeline** | 2025 – 2029 |
+| **Timeline** | 2026 – 2030 |
 | **Focus areas** | DSA · OOP · Web Development · DBMS (upcoming) |
 
 <br/>
