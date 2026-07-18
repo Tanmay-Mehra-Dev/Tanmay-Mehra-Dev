@@ -12,7 +12,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF6B35?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmaymehra)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF6B35?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-mehra-dev)
 [![Email](https://img.shields.io/badge/-Email-16213E?style=flat-square&logo=gmail&logoColor=white)](mailto:tanmaymehra4261@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-1a1a2e?style=flat-square&logo=github&logoColor=white)](https://github.com/Tanmay-Mehra-Dev)
 
@@ -146,7 +146,7 @@ No shortcuts, no achievements claimed that aren't real yet. This README is a liv
 <div align="center">
 
 [![Email](https://img.shields.io/badge/tanmaymehra4261%40gmail.com-16213E?style=for-the-badge&logo=gmail&logoColor=FF6B35)](mailto:tanmaymehra4261@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Ftanmaymehra-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=FF6B35)](https://linkedin.com/in/tanmaymehra)
+[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Ftanmay--mehra--dev-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=FF6B35)](https://www.linkedin.com/in/tanmay-mehra-dev)
 
 </div>
 
