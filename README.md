@@ -1,201 +1,163 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=TANMAY%20MEHRA&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20SDE%20%7C%20DSA%20Learner%20%7C%20MERN%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&lines=1st+Year+BTech+CSE+%40+Parul+University;Learning+Data+Structures+%26+Algorithms;Building+with+MongoDB+%2C+Express+%2C+React+%2C+Node;Consistent+%2B+Curious+%2B+Committed" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=200&section=header&text=TANMAY%20MEHRA&fontSize=42&fontColor=FF6B35&fontAlignY=50&animation=twinkling" width="100%"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-CSE%20(Core)-0A2540?style=for-the-badge&logoColor=white&labelColor=0A2540"/>
-<img src="https://img.shields.io/badge/Parul%20University-00B4D8?style=for-the-badge&labelColor=0A2540"/>
-<img src="https://img.shields.io/badge/📍-Vadodara,%20India-0A2540?style=for-the-badge&labelColor=0A2540"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=2500&pause=800&color=FF6B35&center=true&vCenter=true&repeat=true&width=750&lines=%3E+whoami;Tanmay+Mehra+-+1st+Year+BTech+CSE;%3E+status;Learning+DSA+%2B+MERN+Stack;%3E+goal;Software+Development+Engineer" alt="Typing SVG" />
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/tanmaymehra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A2540"/></a>
-<a href="mailto:tanmaymehra4261@gmail.com"><img src="https://img.shields.io/badge/Email-00B4D8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A2540"/></a>
-<a href="https://github.com/Tanmay-Mehra-Dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A2540"/></a>
+`Parul University` · `Vadodara, India` · `Class of 2029`
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Tanmay-Mehra-Dev&style=for-the-badge&color=00B4D8&labelColor=0A2540" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Tanmay-Mehra-Dev?style=for-the-badge&color=0A2540&labelColor=0A2540&label=Followers"/>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF6B35?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmaymehra)
+[![Email](https://img.shields.io/badge/-Email-16213E?style=flat-square&logo=gmail&logoColor=white)](mailto:tanmaymehra4261@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-1a1a2e?style=flat-square&logo=github&logoColor=white)](https://github.com/Tanmay-Mehra-Dev)
 
 </div>
 
 <br/>
 
----
-
-## 👋 About Me
-
-<div align="center">
-
-```yaml
-Name: "Tanmay Mehra"
-Year: "1st Year, BTech CSE (Core)"
-University: "Parul University, Vadodara"
-Currently Learning: ["Data Structures & Algorithms", "MERN Stack"]
-Goal: "Become a Software Development Engineer (SDE)"
-Mindset: "Consistency over intensity — learning in public, one day at a time"
+```
+┌─────────────────────────────────────────────────────┐
+│  console.log("Building myself one commit at a time") │
+└─────────────────────────────────────────────────────┘
 ```
 
-</div>
+## 🧭 The Story So Far
 
-I'm a first-year Computer Science student building my foundation in problem-solving and web development from the ground up.
+I'm a first-year CSE student — no big project list, no internship badges yet. Just someone who decided early to get serious about **problem-solving** and **web development**, and is showing up daily to build that.
 
-Right now, I'm focused on two things:
-- 🧩 **Data Structures & Algorithms** — solving problems daily in C++/Java to build strong logical and problem-solving fundamentals
-- 🌐 **MERN Stack Development** — learning to build full-stack web applications with MongoDB, Express.js, React.js, and Node.js
+**Right now, two tracks running in parallel:**
 
-I don't have a long list of shipped projects or job titles yet — I'm early in the journey, and this profile will grow as I build, break, and rebuild things. What I do have is consistency, curiosity, and a clear direction.
+```
+Track 1 → DSA Grind
+   C++/Java · Arrays → Strings → Recursion → Trees → Graphs
+   Daily problems on LeetCode/GFG · Building interview-ready logic
 
-<div align="center">
+Track 2 → MERN Stack
+   MongoDB · Express.js · React.js · Node.js
+   Learning by building, not just watching tutorials
+```
 
-### 🎯 Open To
+No shortcuts, no achievements claimed that aren't real yet. This README is a live log of that process — it grows as I do.
 
-<img src="https://img.shields.io/badge/Internships-00B4D8?style=flat-square&labelColor=0A2540"/>
-<img src="https://img.shields.io/badge/Open%20Source%20Contributions-0A2540?style=flat-square&labelColor=0A2540"/>
-<img src="https://img.shields.io/badge/Hackathons-00B4D8?style=flat-square&labelColor=0A2540"/>
-<img src="https://img.shields.io/badge/Collaboration-0A2540?style=flat-square&labelColor=0A2540"/>
+<br/>
 
-</div>
+## ⚙️ Stack
 
----
+<table>
+<tr>
+<td valign="top" width="33%">
 
-## 🛠️ Tech Stack
+**Core**
+<br/>
+<img src="https://skillicons.dev/icons?i=cpp,java,js" />
 
-<div align="center">
+</td>
+<td valign="top" width="33%">
 
-**Languages — Learning**
+**MERN**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 
-<img src="https://skillicons.dev/icons?i=cpp,java,js&theme=dark" />
-
-<br/><br/>
-
-**Web Development — MERN Stack**
-
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css&theme=dark" />
-
-<br/><br/>
+</td>
+<td valign="top" width="33%">
 
 **Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+</td>
+</tr>
+</table>
 
-</div>
-
----
+<br/>
 
 ## 🎓 Education
 
+| | |
+|---|---|
+| **Degree** | B.Tech, Computer Science & Engineering (Core) |
+| **Institute** | Parul University |
+| **Timeline** | 2025 – 2029 |
+| **Focus areas** | DSA · OOP · Web Development · DBMS (upcoming) |
+
 <br/>
 
-**Bachelor of Technology — Computer Science & Engineering (Core)**
-**Parul University** · 2025 – 2029 (Expected)
-
-- Building fundamentals in Programming, OOP, and Mathematics for Computing
-- Practicing DSA consistently through self-paced daily problem solving
-- Exploring full-stack development through personal learning and projects
-
----
-
-## 🚀 Projects
+## 🔨 Build Log
 
 <div align="center">
 
-<sub>🚧 First projects currently in progress — this section updates as they ship.</sub>
+| Status | Project | Stack | Link |
+|:---:|---|---|:---:|
+| 🚧 | First MERN project — in progress | MongoDB · Express · React · Node | _coming soon_ |
+| 📋 | Planned: DSA visualizer | JavaScript | _planned_ |
 
 </div>
 
-<details>
-<summary><b>📌 Coming Soon</b></summary>
+<sub>This table updates as real things ship — no placeholders left dangling once there's actual work to show.</sub>
+
 <br/>
 
-Working on my first MERN stack project. Will be added here with a live demo link, GitHub repo, and tech breakdown once deployed.
+## 📡 Currently
 
-</details>
-
----
-
-## 📈 Current Focus
-
-```yaml
-learning:
-  - Data Structures & Algorithms (C++ / Java)
-  - MongoDB, Express.js, React.js, Node.js
-  - Git & GitHub workflows
-
-building:
-  - First MERN stack project (in progress)
-  - Daily DSA problem-solving habit
-
-exploring:
-  - Open-source contribution basics
-  - Coding communities & peer learning
-
-open_to:
-  - Internships
-  - Hackathons
-  - Open Source Collaboration
+```diff
++ Solving DSA problems daily
++ Learning full-stack development hands-on
++ Setting up GitHub as an actual build log, not a trophy case
+- Not chasing certificates before fundamentals
+- Not claiming projects that don't exist yet
 ```
 
----
+<br/>
 
-## 💻 Coding Profiles
+## 📊 Stats
 
 <div align="center">
 
-<sub>🔗 Add your handles here once you create profiles on these platforms</sub>
-
-<a href="https://leetcode.com/u/your-leetcode-handle"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0A2540"/></a>
-<a href="https://www.geeksforgeeks.org/user/your-gfg-handle"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0A2540"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Tanmay-Mehra-Dev&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=FF6B35&icon_color=FF6B35&text_color=C9D1D9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmay-Mehra-Dev&theme=radical&hide_border=true&background=1a1a2e&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" height="165"/>
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tanmay-Mehra-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=C9D1D9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmay-Mehra-Dev&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmay-Mehra-Dev&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=FF6B35&line=FF6B35&point=ffffff" width="100%"/>
+
+</div>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Mehra-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=C9D1D9" width="49%"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
+## 🎯 Open To
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmay-Mehra-Dev&theme=react-dark&hide_border=true&bg_color=0D1117&color=00B4D8&line=00B4D8&point=C9D1D9"/>
+`Internships` · `Hackathons` · `Open Source` · `Study/Build Collabs`
 
 </div>
 
----
+<br/>
 
-## 📬 Connect
+## 📮 Reach Me
 
 <div align="center">
 
-<a href="mailto:tanmaymehra4261@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A2540"/></a>
-<a href="https://linkedin.com/in/tanmaymehra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A2540"/></a>
-<a href="https://github.com/Tanmay-Mehra-Dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A2540"/></a>
+[![Email](https://img.shields.io/badge/tanmaymehra4261%40gmail.com-16213E?style=for-the-badge&logo=gmail&logoColor=FF6B35)](mailto:tanmaymehra4261@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Ftanmaymehra-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=FF6B35)](https://linkedin.com/in/tanmaymehra)
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-*"Every senior engineer was once a first-year student who just kept showing up."*
+```
+while(alive) { learn(); build(); repeat(); }
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
 
 </div>
